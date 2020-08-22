@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "391169404239",
+    "firebase_url": "https://one-to-one-chat-app-c3be3.firebaseio.com",
+    "project_id": "one-to-one-chat-app-c3be3",
+    "storage_bucket": "one-to-one-chat-app-c3be3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:391169404239:android:ff143a9b7ba65077b2693a",
+        "android_client_info": {
+          "package_name": "com.example.one_to_one_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "391169404239-2atekofl38knh4cclfms5c2vp7v1c277.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxdn2LnjOj2y9VHGeZbFTV8KqLyYQZuZU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "391169404239-2atekofl38knh4cclfms5c2vp7v1c277.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
