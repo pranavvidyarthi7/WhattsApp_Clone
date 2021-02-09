@@ -1,6 +1,6 @@
 # one_to_one_chat
 
-A new Flutter project.
+A Flutter-Firebase project similar to whatsapp. Both one to one and group chat can be done.  
 
 ## Getting Started
 
